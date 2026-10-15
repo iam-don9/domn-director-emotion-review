@@ -1,0 +1,15 @@
+display-name-zh: 情感戏导演审核
+version: 0.2.0
+tag-en: "Video Production"
+tag-cn: "视频制作"
+complete-tags-en:
+  - "Short Drama / Planning"
+complete-tags-cn:
+  - "短剧漫剧 / 计划制定"
+summary-en: "Review emotional screenplays or video prompts and produce the correct source-format revision."
+summary-cn: "识别剧本或视频提示词类型，审核情绪表演并输出对应格式的修订稿。"
+desc-en: "A director-focused review skill for breakup scenes, romantic conflict, and other emotionally restrained performances. It accepts screenplay text or generative-video prompts, classifies the input before analysis, then audits objectives, obstacles, tactics, micro-actions, breath, voice, dialogue timing, continuity, and cinematic control. Screenplay input produces a dramatic diagnosis, prioritized findings, playable action-line suggestions, and a screenplay-format excerpt revision. Video-prompt input produces a controllability audit and a revised prompt that preserves the original section structure, shot timing, speaker ownership, exact dialogue order, and action-to-line binding. It is best for emotionally specific scenes where realism depends on small reactions and held-back impulses. It does not invent backstory, silently convert formats, or treat one gesture as a universal emotion signal."
+desc-cn: "面向导演、编剧和 AI 视频创作者的情感戏审核 Skill，适用于爱情决裂、关系拉扯和克制型悲情表演。用户可输入剧本或生成式视频提示词，Skill 会先识别文本类型，再审核人物目标、阻碍、策略、情绪转折、微动作、呼吸声音、对白节奏、站位轴线和镜头连续性。剧本分支输出戏剧诊断、优先级问题、可表演动作线建议和保留剧本格式的修订片段；提示词分支输出生成可控性审核，并在保留原有章节、分镜时间、说话者、完整对白顺序和动作绑定关系的前提下修订提示词。它适合需要真人微表情和克制反作用力的情感戏，不会臆造背景、静默转换文本形态，也不会把单一动作当成固定情绪。"
+author-en: "MiniMax Design"
+author-cn: "MiniMax Design"
+source: official
