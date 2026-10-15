@@ -1,42 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">domn-director-emotion-review 工作流</title>
-  <desc id="desc">情绪戏真实感审核与改写。阶段：定位来源 → 审微动作 → 理台词 → 查连续 → 出改写。</desc>
-  <rect width="1200" height="320" rx="24" fill="#0C0F13"/>
-  <g id="title-block" transform="translate(56 40)">
-    <text x="0" y="14" fill="#7A8694" font-size="15" letter-spacing="2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">WORKFLOW · 1–5</text>
-    <text x="0" y="46" fill="#E8ECF1" font-size="23" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">情绪戏真实感审核与改写</text>
-  </g>
-  <g id="project-proof">
-    <line x1="120.0" y1="180" x2="1080.0" y2="180" stroke="#4A80B9" stroke-width="3"/>
-    <path d="M233.0 174 L247.0 180 L233.0 186 Z" fill="#4A80B9"/>
-    <path d="M473.0 174 L487.0 180 L473.0 186 Z" fill="#4A80B9"/>
-    <path d="M713.0 174 L727.0 180 L713.0 186 Z" fill="#4A80B9"/>
-    <path d="M953.0 174 L967.0 180 L953.0 186 Z" fill="#4A80B9"/>
-    <g id="stage-1" transform="translate(120 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#4A80B9" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">1</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">定位来源</text>
-    </g>
-    <g id="stage-2" transform="translate(360 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#4A80B9" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">2</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">审微动作</text>
-    </g>
-    <g id="stage-3" transform="translate(600 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#4A80B9" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">3</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">理台词</text>
-    </g>
-    <g id="stage-4" transform="translate(840 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#4A80B9" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">4</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">查连续</text>
-    </g>
-    <g id="stage-5" transform="translate(1080 180)">
-      <circle r="30" fill="#4A80B9" stroke="#4A80B9" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#0C0F13" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">5</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">出改写</text>
-    </g>
-  </g>
-  <g id="metadata"><text x="600" y="304" fill="#7A8694" font-size="18" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">先判来源形式，再回对应分支</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<title>domn-director-emotion-review 工作流：输入分类→情绪脊线→微动作审计→分支评审→问题清单→修订交付</title>
+<desc>情绪张力曲线逐拍标注可见微动作与转折点；用身体部位+动词+方向+强度+拍点+抑制替换标签。</desc>
+<rect width="0" height="0" fill="#0C0F13"/>
+<path d="M 120 180 L 160 140 L 200 225 L 240 90 L 280 210 L 320 150 L 360 230 L 400 80 L 440 220 L 480 145 L 520 185 L 560 100 L 600 265 L 640 130 L 680 190 L 720 158 L 760 178 L 800 164 L 840 180 L 880 140 L 920 225 L 960 90 L 1000 210 L 1040 150" fill="none" stroke="#4A80B9" stroke-width="3"/><circle cx="200" cy="225" r="7" fill="#0C0F13" stroke="#4A80B9" stroke-width="2"/><circle cx="360" cy="230" r="7" fill="#0C0F13" stroke="#4A80B9" stroke-width="2"/><circle cx="520" cy="185" r="7" fill="#0C0F13" stroke="#4A80B9" stroke-width="2"/><circle cx="680" cy="190" r="7" fill="#0C0F13" stroke="#4A80B9" stroke-width="2"/><circle cx="560" cy="100" r="12" fill="none" stroke="#4A80B9" stroke-width="2.5"/><text x="560" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#4A80B9" font-weight="700" text-anchor="middle">转折</text><text x="60" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#4A80B9" font-weight="700" text-anchor="start">情绪张力曲线 · 逐拍审计</text><text x="60" y="315" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#7E8794" font-weight="400" text-anchor="start">刺激源→可演目标→可计时反应；微动作六通道逐拍</text>
 </svg>
